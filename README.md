@@ -1,2 +1,2 @@
 # treatyoself
-It's yo burrdayyy
+Web Application of treatYoSelf!
